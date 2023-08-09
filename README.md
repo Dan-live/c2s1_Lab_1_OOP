@@ -1,4 +1,4 @@
-# k2s1_Lab_1_OOP
+# c2s1_Lab_1_OOP
 The Ratio class, which is a fraction.
 1. Implement the appropriate constructors: default, copying
 and initialization with one (for the case of integers) or a pair of integers.
